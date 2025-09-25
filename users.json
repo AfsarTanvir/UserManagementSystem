@@ -1,0 +1,220 @@
+
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 28,
+      "profession": "Software Engineer",
+      "skills": ["JavaScript", "TypeScript", "React", "Node.js"],
+      "isActive": true,
+      "avatar": "./src/Images/animal05.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 32,
+      "profession": "UX Designer",
+      "skills": ["Figma", "Adobe XD", "HTML", "CSS"],
+      "isActive": false,
+      "avatar": "./src/Images/animal04.avif"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "email": "mike.johnson@example.com",
+      "age": 25,
+      "profession": "Data Scientist",
+      "skills": ["Python", "R", "Machine Learning", "SQL"],
+      "isActive": true,
+      "avatar": "./src/Images/rabit.webp"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal02.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "age": 35,
+      "profession": "DevOps Engineer",
+      "skills": ["Docker", "Kubernetes", "AWS", "Jenkins"],
+      "isActive": false,
+      "avatar": "./src/Images/rabit.webp"
+    },
+    {
+      "id": 6,
+      "name": "Afsar Tanvir",
+      "email": "afsartanvir@example.com",
+      "age": 24,
+      "profession": "Software Engineer",
+      "skills": ["TypeScript", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/Tiger.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal05.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal05.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal04.avif"
+    },
+    {
+      "id": 10,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal04.avif"
+    },
+    {
+      "id": 11,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal03.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal02.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal01.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal06.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal04.avif"
+    },
+    {
+      "id": 16,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal03.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal02.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal01.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal03.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal02.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "age": 29,
+      "profession": "Product Manager",
+      "skills": ["Agile", "Scrum", "Product Strategy", "Analytics"],
+      "isActive": true,
+      "avatar": "./src/Images/animal01.jpeg"
+    }
+  ],
+  "meta": {
+    "total": 21,
+    "lastUpdated": "2024-12-15T10:30:00Z",
+    "version": "1.0"
+  }
+}

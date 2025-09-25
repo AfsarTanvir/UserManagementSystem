@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Employee Information</title>
+  </head>
+  <body>
+    <div id="app">
+      <div class="container">
+        <h1 id="main-title">User Management System</h1>
+
+        <div class="search-container">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="search users by name or profession..."
+          />
+        </div>
+
+        <div class="controls">
+          <button id="load-users-btn">Load Users</button>
+          <button id="show-active-btn">Show Active Only</button>
+          <button id="show-inactive-btn">Show Inactive Only</button>
+          <button id="show-all-btn">Show All Users</button>
+          <button id="sort-by-name-btn">Sort By Name</button>
+          <button id="sort-by-age-btn">Sort by Age</button>
+          <button id="clear-btn">Clear Results</button>
+        </div>
+
+        <div id="users-container" class="users-grid"></div>
+        <div id="meta-container" class="meta-info" style="display: none;"></div>
+      </div>
+    </div>
+    <script type="module" src="./src/main.ts"></script>
+  </body>
+</html>
